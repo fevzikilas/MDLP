@@ -2,7 +2,6 @@ website:
   sidebar:
     contents:
       - 00_core.ipynb
-      - 2.ipynb
       - <strong>↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑</strong>
       - <a><br></a>
       - <a>SELAMLAR HOSGELDIN ♥♥ </a>
@@ -14,5 +13,4 @@ website:
       - <a>SIMDILIK BASKA DILE CEVIRMEYI DUSUNMUYORUM  🌼</a>
       - <a><br></a>
       - index.ipynb
-      - about.ipynb
-
+      - 01_about.ipynb
