@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "MDLP"
-  site-url: "https://fevzikilas.github.io/MDLP"
-  description: "Keeping Neural Networks Simple By Minimizing the Description Length of the Weights"
-  repo-branch: main
-  repo-url: "https://github.com/fevzikilas/MDLP"
